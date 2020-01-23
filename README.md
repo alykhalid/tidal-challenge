@@ -29,4 +29,4 @@ You can assume the following:
 
 ## Deliverables
 
-Please bring the code (either on your own machine or do a github fork) and prepare a short oral presentation of your work in the interview.
+Please bring the code (either on your own machine or do a private github fork) and prepare a short oral presentation of your work in the interview.
