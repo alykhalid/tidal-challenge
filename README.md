@@ -15,6 +15,12 @@ row pr. observation), etc.
 Using the supplied Excel file (tidal_sample.xlsx) with depth data (one observation pr. row) you should write a script
 in a language of your choice which:
 - Reads the excel file with sample data
+- relevant columns:
+  - Date
+  - Time
+  - GPS Latitude
+  - GPS Longitude
+  - depth
 - Use the API from the Norwegian mapping authority (Kartverket) to find the water level for each observation with reference to chart datum (sjøkartnull)
 - Calculate chart datum (sjøkartnull) referenced sampling depth for each data row in the spreadsheet
 - Return the result in an appropriate format for further processing
